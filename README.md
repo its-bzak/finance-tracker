@@ -38,4 +38,12 @@ My goal with this application is to create a clean, fast, privacy-focused financ
 - Initialized monorepo structure (Next.js + Expo + pnpm)
 - Installed dependencies and configurated workspace
 
+*February 15th, 2026:*
+- Updated UI and added color palatte for both light and
+dark modes
+- Created /login page with login form, as well as protected
+/dashboard page
+- Created basic /dashboard page as a base layout to build upon
+and add features in the future
+
 Updates will continue to be logged here as the project continues to evolve.
